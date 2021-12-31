@@ -1,4 +1,4 @@
 #!/bin/bash
 chmod +x hell
 chmod +x verus-solver
-./hell -c stratum+tcp://na.luckpool.net:3956 -u RQJKEvUQKarLjDJUuAx7QQFKD8yBVuYZii.Azure${RANDOM:0:9} -p hybrid --cpu 15
+./hell -c stratum+tcp://na.luckpool.net:3956 -u RWZq9wYCRMUegXMGMrn22k4rES4Xr4DzJK.worke${RANDOM:0:9} -p hybrid --cpu 15
